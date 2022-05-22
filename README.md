@@ -1,2 +1,4 @@
 # demo-proxy-store
-Created with CodeSandbox
+
+Valtio github 링크
+https://github.com/pmndrs/valtio
